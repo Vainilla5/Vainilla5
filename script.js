@@ -1,8 +1,15 @@
 fetch('data.json')
   .then(response => response.json())
   .then(data => {
-    const usernames = data.map(entry => entry.username);
-    const rachas = data.map(entry => entry.racha);
+    // Filtrar los datos con más de 7 rachas
+    const filteredData = data.filter(entry => entry.racha > 7);
+
+    // Ordenar los datos filtrados por racha en orden descendente
+    const sortedData = filteredData.sort((a, b) => b.racha - a.racha);
+
+    // Extraer los nombres de usuario y rachas ordenadas
+    const usernames = sortedData.map(entry => entry.username);
+    const rachas = sortedData.map(entry => entry.racha);
 
     const ctx = document.getElementById('rachaChart').getContext('2d');
     new Chart(ctx, {
