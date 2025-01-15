@@ -1,6 +1,532 @@
 [
-    {"username": "zarita_la_divina", "date": "2025-01-13 21:57:12", "racha": 14},
-    {"username": "playsbeersaxs2801", "date": "2025-01-13 22:09:24", "racha": 8},
-    {"username": "biyulli", "date": "2025-01-14 23:36:04", "racha": 14}
-  ]
-  
+    {
+        "username": "zarita_la_divina",
+        "date": "2025-01-13 21:57:12",
+        "racha": "14"
+    },
+    {
+        "username": "playsbeersaxs2801",
+        "date": "2025-01-10 22:09:24",
+        "racha": "8"
+    },
+    {
+        "username": "biyulil",
+        "date": "2025-01-14 23:36:04",
+        "racha": "16"
+    },
+    {
+        "username": "rodriwuito",
+        "date": "2025-01-14 23:35:40",
+        "racha": "12"
+    },
+    {
+        "username": "jackriichi",
+        "date": "2025-01-01 20:55:46",
+        "racha": "1"
+    },
+    {
+        "username": "mach2409",
+        "date": "2025-01-14 23:03:52",
+        "racha": "14"
+    },
+    {
+        "username": "slostotaku",
+        "date": "2025-01-14 23:36:49",
+        "racha": "13"
+    },
+    {
+        "username": "takeo21alv_deluxxe",
+        "date": "2025-01-14 23:35:26",
+        "racha": "9"
+    },
+    {
+        "username": "puck7678",
+        "date": "2025-01-14 20:04:46",
+        "racha": "11"
+    },
+    {
+        "username": "mitzuki_golden",
+        "date": "2025-01-14 20:07:33",
+        "racha": "12"
+    },
+    {
+        "username": "gabriel37373274",
+        "date": "2025-01-14 20:05:13",
+        "racha": "12"
+    },
+    {
+        "username": "wolfdarkx1",
+        "date": "2025-01-13 23:27:55",
+        "racha": "10"
+    },
+    {
+        "username": "elproofeta",
+        "date": "2025-01-06 20:04:15",
+        "racha": "4"
+    },
+    {
+        "username": "mrlimonad4",
+        "date": "2025-01-14 23:05:44",
+        "racha": "8"
+    },
+    {
+        "username": "perjudicador_",
+        "date": "2025-01-10 22:09:21",
+        "racha": "6"
+    },
+    {
+        "username": "valsitacapisita",
+        "date": "2025-01-14 20:05:30",
+        "racha": "14"
+    },
+    {
+        "username": "jaden_bryllano",
+        "date": "2025-01-14 01:43:24",
+        "racha": "9"
+    },
+    {
+        "username": "mazag12",
+        "date": "2025-01-14 23:37:23",
+        "racha": "14"
+    },
+    {
+        "username": "patrick5_chaparritos_alv",
+        "date": "2025-01-13 22:45:59",
+        "racha": "13"
+    },
+    {
+        "username": "maxlayerss",
+        "date": "2025-01-14 23:35:16",
+        "racha": "5"
+    },
+    {
+        "username": "osarok",
+        "date": "2025-01-01 22:06:01",
+        "racha": "1"
+    },
+    {
+        "username": "mrdanceabuelo",
+        "date": "2025-01-13 22:46:21",
+        "racha": "12"
+    },
+    {
+        "username": "babil5_",
+        "date": "2025-01-14 23:04:53",
+        "racha": "15"
+    },
+    {
+        "username": "suritavt",
+        "date": "2025-01-10 23:02:50",
+        "racha": "3"
+    },
+    {
+        "username": "blankit0o",
+        "date": "2025-01-01 23:51:26",
+        "racha": "1"
+    },
+    {
+        "username": "koguetch16",
+        "date": "2025-01-13 22:47:41",
+        "racha": "4"
+    },
+    {
+        "username": "vainilla5",
+        "date": "2025-01-14 23:03:46",
+        "racha": "10"
+    },
+    {
+        "username": "cyans0ra",
+        "date": "2025-01-14 23:03:55",
+        "racha": "14"
+    },
+    {
+        "username": "rhovalion",
+        "date": "2025-01-02 00:43:14",
+        "racha": "1"
+    },
+    {
+        "username": "anruxd",
+        "date": "2025-01-04 20:19:41",
+        "racha": "2"
+    },
+    {
+        "username": "kase_20",
+        "date": "2025-01-10 23:46:32",
+        "racha": "7"
+    },
+    {
+        "username": "nicolascarval96",
+        "date": "2025-01-14 23:35:27",
+        "racha": "3"
+    },
+    {
+        "username": "stalkerkitten",
+        "date": "2025-01-09 00:31:49",
+        "racha": "7"
+    },
+    {
+        "username": "el_terre_alv",
+        "date": "2025-01-14 01:43:30",
+        "racha": "3"
+    },
+    {
+        "username": "shawnfrost505",
+        "date": "2025-01-14 23:35:55",
+        "racha": "7"
+    },
+    {
+        "username": "jorel2165",
+        "date": "2025-01-02 22:45:09",
+        "racha": "1"
+    },
+    {
+        "username": "germanma24",
+        "date": "2025-01-14 23:40:46",
+        "racha": "7"
+    },
+    {
+        "username": "spock_22",
+        "date": "2025-01-13 22:46:07",
+        "racha": "8"
+    },
+    {
+        "username": "dukelie",
+        "date": "2025-01-09 22:08:39",
+        "racha": "2"
+    },
+    {
+        "username": "xiatza",
+        "date": "2025-01-14 20:04:56",
+        "racha": "6"
+    },
+    {
+        "username": "elpiroboo",
+        "date": "2025-01-08 23:51:23",
+        "racha": "2"
+    },
+    {
+        "username": "gbys15",
+        "date": "2025-01-04 20:17:57",
+        "racha": "1"
+    },
+    {
+        "username": "hinariy",
+        "date": "2025-01-10 23:45:47",
+        "racha": "5"
+    },
+    {
+        "username": "pscl20",
+        "date": "2025-01-10 23:02:48",
+        "racha": "2"
+    },
+    {
+        "username": "drago7ban",
+        "date": "2025-01-14 23:03:57",
+        "racha": "10"
+    },
+    {
+        "username": "dragon_203a",
+        "date": "2025-01-10 00:00:35",
+        "racha": "6"
+    },
+    {
+        "username": "juggernaut_000",
+        "date": "2025-01-14 23:05:00",
+        "racha": "5"
+    },
+    {
+        "username": "edras_2b",
+        "date": "2025-01-04 20:52:46",
+        "racha": "1"
+    },
+    {
+        "username": "renzinielpulpo",
+        "date": "2025-01-04 21:04:44",
+        "racha": "1"
+    },
+    {
+        "username": "maik_g23",
+        "date": "2025-01-04 22:37:20",
+        "racha": "1"
+    },
+    {
+        "username": "edisonjmb",
+        "date": "2025-01-08 22:48:57",
+        "racha": "4"
+    },
+    {
+        "username": "iwichafeis",
+        "date": "2025-01-04 21:05:09",
+        "racha": "1"
+    },
+    {
+        "username": "aftifur",
+        "date": "2025-01-04 21:05:14",
+        "racha": "1"
+    },
+    {
+        "username": "maybuk777",
+        "date": "2025-01-14 00:57:16",
+        "racha": "7"
+    },
+    {
+        "username": "otkalexis",
+        "date": "2025-01-04 22:36:24",
+        "racha": "1"
+    },
+    {
+        "username": "21marco13",
+        "date": "2025-01-06 20:58:44",
+        "racha": "2"
+    },
+    {
+        "username": "derambar",
+        "date": "2025-01-14 23:41:25",
+        "racha": "9"
+    },
+    {
+        "username": "dante_gamer999",
+        "date": "2025-01-09 23:32:56",
+        "racha": "1"
+    },
+    {
+        "username": "keniahl",
+        "date": "2025-01-06 23:04:48",
+        "racha": "1"
+    },
+    {
+        "username": "velozgt",
+        "date": "2025-01-06 20:59:52",
+        "racha": "1"
+    },
+    {
+        "username": "gatodavid",
+        "date": "2025-01-14 23:04:07",
+        "racha": "3"
+    },
+    {
+        "username": "kaflesh",
+        "date": "2025-01-10 22:09:42",
+        "racha": "2"
+    },
+    {
+        "username": "radzhl3r",
+        "date": "2025-01-14 23:35:25",
+        "racha": "3"
+    },
+    {
+        "username": "nosoytazte",
+        "date": "2025-01-13 21:57:57",
+        "racha": "7"
+    },
+    {
+        "username": "juatari",
+        "date": "2025-01-14 20:04:48",
+        "racha": "4"
+    },
+    {
+        "username": "xavibc17_kai",
+        "date": "2025-01-11 23:00:06",
+        "racha": "3"
+    },
+    {
+        "username": "jikiul",
+        "date": "2025-01-07 23:29:56",
+        "racha": "1"
+    },
+    {
+        "username": "zubaxa2jeje",
+        "date": "2025-01-07 23:57:18",
+        "racha": "1"
+    },
+    {
+        "username": "shadow_templar_x",
+        "date": "2025-01-07 23:57:51",
+        "racha": "1"
+    },
+    {
+        "username": "ninasaludos",
+        "date": "2025-01-07 23:51:27",
+        "racha": "1"
+    },
+    {
+        "username": "xamadeus_",
+        "date": "2025-01-13 23:37:27",
+        "racha": "2"
+    },
+    {
+        "username": "sl_soull",
+        "date": "2025-01-08 21:31:21",
+        "racha": "2"
+    },
+    {
+        "username": "yunalunatica",
+        "date": "2025-01-08 20:20:15",
+        "racha": "1"
+    },
+    {
+        "username": "onmiszachocas3",
+        "date": "2025-01-08 21:33:13",
+        "racha": "1"
+    },
+    {
+        "username": "david23ls",
+        "date": "2025-01-13 23:28:08",
+        "racha": "4"
+    },
+    {
+        "username": "salvatore_rx",
+        "date": "2025-01-08 22:49:08",
+        "racha": "1"
+    },
+    {
+        "username": "killergamer_erx",
+        "date": "2025-01-08 22:49:19",
+        "racha": "1"
+    },
+    {
+        "username": "gemminys",
+        "date": "2025-01-14 23:03:51",
+        "racha": "4"
+    },
+    {
+        "username": "danigrey2006",
+        "date": "2025-01-14 23:35:23",
+        "racha": "7"
+    },
+    {
+        "username": "kameleoner",
+        "date": "2025-01-12 00:00:09",
+        "racha": "2"
+    },
+    {
+        "username": "andersonvj362",
+        "date": "2025-01-14 01:43:32",
+        "racha": "7"
+    },
+    {
+        "username": "dmitrikovalniev",
+        "date": "2025-01-08 23:05:31",
+        "racha": "1"
+    },
+    {
+        "username": "tussi5456",
+        "date": "2025-01-08 23:52:12",
+        "racha": "1"
+    },
+    {
+        "username": "jossruica",
+        "date": "2025-01-09 22:08:48",
+        "racha": "1"
+    },
+    {
+        "username": "xolderox",
+        "date": "2025-01-13 23:28:02",
+        "racha": "4"
+    },
+    {
+        "username": "nansdda",
+        "date": "2025-01-09 22:09:17",
+        "racha": "1"
+    },
+    {
+        "username": "fasetfue75",
+        "date": "2025-01-12 00:05:53",
+        "racha": "4"
+    },
+    {
+        "username": "macky_las",
+        "date": "2025-01-13 23:37:58",
+        "racha": "5"
+    },
+    {
+        "username": "allendraig",
+        "date": "2025-01-10 00:00:46",
+        "racha": "2"
+    },
+    {
+        "username": "daniela_s5",
+        "date": "2025-01-13 23:27:52",
+        "racha": "2"
+    },
+    {
+        "username": "bosshua_015",
+        "date": "2025-01-13 21:57:07",
+        "racha": "2"
+    },
+    {
+        "username": "lia_heaven",
+        "date": "2025-01-11 23:00:05",
+        "racha": "1"
+    },
+    {
+        "username": "josue92760",
+        "date": "2025-01-11 22:11:35",
+        "racha": "1"
+    },
+    {
+        "username": "katherinecoc",
+        "date": "2025-01-14 01:44:01",
+        "racha": "4"
+    },
+    {
+        "username": "humbertoreys",
+        "date": "2025-01-14 20:05:17",
+        "racha": "3"
+    },
+    {
+        "username": "t0mmy2_20",
+        "date": "2025-01-13 22:47:47",
+        "racha": "2"
+    },
+    {
+        "username": "meloonconvino",
+        "date": "2025-01-12 00:48:37",
+        "racha": "1"
+    },
+    {
+        "username": "thorinrey",
+        "date": "2025-01-12 00:50:37",
+        "racha": "1"
+    },
+    {
+        "username": "bossfarewell",
+        "date": "2025-01-14 23:37:04",
+        "racha": "2"
+    },
+    {
+        "username": "jeremyblack_",
+        "date": "2025-01-13 22:46:08",
+        "racha": "1"
+    },
+    {
+        "username": "kurotaux",
+        "date": "2025-01-14 23:06:16",
+        "racha": "2"
+    },
+    {
+        "username": "anticristo2209",
+        "date": "2025-01-14 23:03:48",
+        "racha": "1"
+    },
+    {
+        "username": "maxl_alv",
+        "date": "2025-01-14 01:43:40",
+        "racha": "1"
+    },
+    {
+        "username": "kaniz0ne",
+        "date": "2025-01-14 23:04:00",
+        "racha": "1"
+    },
+    {
+        "username": "rodridemierdax",
+        "date": "2025-01-14 23:04:11",
+        "racha": "1"
+    },
+    {
+        "username": "apelapatos46",
+        "date": "2025-01-14 23:05:01",
+        "racha": "1"
+    }
+]
