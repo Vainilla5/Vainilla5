@@ -11,7 +11,9 @@ body {
   }
   
   canvas {
-    max-width: 800px;
-    margin: 0 auto;
+    max-width: 1900px; /* Ancho máximo */
+    height: 500px; /* Altura específica */
+    margin: 0 auto; /* Centrar */
+    display: block; /* Asegura que se vea como un bloque */
   }
   
